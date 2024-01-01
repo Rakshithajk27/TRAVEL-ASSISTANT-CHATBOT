@@ -15,8 +15,6 @@ Features:
 
           Weather and Destination Information: Access real-time weather updates and insightful details about chosen destinations.
 
-          Language Translation: Break down language barriers with quick translation services.
-
           Emergency Support: Get guidance and assistance in case of unexpected situations or emergencies.
 
           Travel Tips and Advice: Access a wealth of travel tips, packing hacks, and destination-specific advice.
